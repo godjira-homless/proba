@@ -1,1 +1,1 @@
-print("hello te kutya")
+print("hello te kutya te nagon")
