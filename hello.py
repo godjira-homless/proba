@@ -1,4 +1,4 @@
-print("hello te kutya te nagon!")
+print("hello te kutya te nagyon")
 print ("another kutya")
 
 
